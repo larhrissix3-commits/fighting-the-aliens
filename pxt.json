@@ -1,5 +1,6 @@
 {
     "name": "Fighting the aliens",
+    "version": "0.0.1",
     "description": "kill all aliens",
     "dependencies": {
         "device": "*",
